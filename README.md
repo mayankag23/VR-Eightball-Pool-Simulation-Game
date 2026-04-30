@@ -50,10 +50,6 @@ Additional:
 * X: Show hand/controller mode
 * [ and ]: Switch interaction mode
 
-## Notes
-
-The project was intended to run on a VR headset, but due to compatibility and size limitations, it may not run directly on the device. All VR interactions have been mapped to keyboard controls so the game can still be demonstrated on a PC.
-
 ## Author
 
 Mayank
